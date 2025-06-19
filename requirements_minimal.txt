@@ -1,0 +1,12 @@
+# Core packages that should work
+numpy
+opencv-python-headless
+Pillow
+mss
+
+# Input control - try these one by one
+pynput
+pyautogui
+
+# Basic packages
+GitPython

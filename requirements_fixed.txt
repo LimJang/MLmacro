@@ -1,0 +1,12 @@
+GitPython
+keyboard
+mss
+numpy
+opencv-python-headless
+Pillow
+pygame
+pynput
+tensorflow
+pyobjc-framework-Cocoa
+pyobjc-framework-Quartz
+pyautogui
