@@ -1,14 +1,22 @@
-GitPython
-keyboard
-mss
-numpy
-opencv-python-headless
-Pillow
-pygame
-pynput
-tensorflow
-AppKit
-Quartz
-pyobjc-framework-Cocoa
-pyobjc-framework-Quartz
-pyautogui
+# Auto Maple Bot v2.0 - macOS Dependencies
+
+# Core Libraries
+opencv-python>=4.8.0
+numpy>=1.24.0
+mss>=9.0.0
+Pillow>=10.0.0
+
+# GUI Framework
+PyQt5>=5.15.0  # For Phase 2 template manager
+
+# Input Control (Phase 3)
+pynput>=1.7.6
+pyautogui>=0.9.54
+
+# macOS System Integration
+pyobjc-framework-Cocoa>=9.0
+pyobjc-framework-Quartz>=9.0
+pyobjc-framework-ApplicationServices>=9.0
+
+# Utilities
+pathlib2>=2.3.7

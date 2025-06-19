@@ -1,0 +1,8 @@
+{
+  "name": "player",
+  "type": "player",
+  "created": 1750369943.224399,
+  "confidence_threshold": 0.7,
+  "width": 54,
+  "height": 31
+}

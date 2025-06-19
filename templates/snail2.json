@@ -1,0 +1,8 @@
+{
+  "name": "snail2",
+  "type": "monster",
+  "created": 1750370157.673751,
+  "confidence_threshold": 0.7,
+  "width": 71,
+  "height": 48
+}
